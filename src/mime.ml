@@ -663,6 +663,7 @@ let map_filename_to_mime_type filename =
     | "xif" -> "image/vnd.xiff"
     | "webp" -> "image/webp"
     | "3ds" -> "image/x-3ds"
+    | "dng" -> "image/x-adobe-dng"
     | "ras" -> "image/x-cmu-raster"
     | "cmx" -> "image/x-cmx"
     | "fh" | "fhc" | "fh4" | "fh5" | "fh7" -> "image/x-freehand"
